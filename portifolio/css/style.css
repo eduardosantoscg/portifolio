@@ -1,0 +1,55 @@
+body{
+    background: white url(../relo.png);
+    background-size: 100%;
+    padding: 5%;
+
+    
+}
+
+.mainav1{
+    background-color:rgb(86, 59, 59);
+    color:white;
+    text-align: left;
+    width: 20%;
+    height: 10%;
+    margin: left;
+    float:left;
+
+}
+
+.mainav2{
+    background-color:black;
+    color: rgb(244, 237, 237);
+    float: right;
+    width: 80%;
+    height: 10%;
+    text-decoration:none;
+    
+}
+
+.mainav2 li{
+    display:inline;
+    padding: 5%;
+    text-decoration: none;
+}
+
+.content{
+   
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: black;
+padding: 5%;
+float: left;
+ 
+}
+.mainleft{
+    background-color: yellow;
+    float: right;
+
+}
+
+.content1{
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+  text-align:center;
+ }
